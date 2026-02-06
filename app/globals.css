@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Vazirmatn:wght@400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+@layer base {
+  :root {
+    --background: 222 84% 5%;
+    --foreground: 210 40% 92%;
+    --card: 222 60% 8%;
+    --card-foreground: 210 40% 92%;
+    --popover: 222 60% 8%;
+    --popover-foreground: 210 40% 92%;
+    --primary: 187 100% 50%;
+    --primary-foreground: 222 84% 5%;
+    --secondary: 215 19% 35%;
+    --secondary-foreground: 210 40% 92%;
+    --muted: 222 40% 12%;
+    --muted-foreground: 215 19% 55%;
+    --accent: 187 100% 50%;
+    --accent-foreground: 222 84% 5%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 222 30% 16%;
+    --input: 222 30% 16%;
+    --ring: 187 100% 50%;
+    --chart-1: 187 100% 50%;
+    --chart-2: 215 19% 35%;
+    --chart-3: 222 40% 12%;
+    --chart-4: 187 80% 40%;
+    --chart-5: 215 30% 45%;
+    --radius: 0.5rem;
+    --sidebar-background: 222 60% 8%;
+    --sidebar-foreground: 210 40% 92%;
+    --sidebar-primary: 187 100% 50%;
+    --sidebar-primary-foreground: 222 84% 5%;
+    --sidebar-accent: 222 40% 12%;
+    --sidebar-accent-foreground: 210 40% 92%;
+    --sidebar-border: 222 30% 16%;
+    --sidebar-ring: 187 100% 50%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}
+
+.font-vazir {
+  font-family: 'Vazirmatn', sans-serif;
+}
+
+[dir="rtl"] {
+  font-family: 'Vazirmatn', sans-serif;
+}

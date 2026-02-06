@@ -1,0 +1,138 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "webDev": "Web Development",
+    "automation": "n8n Automation",
+    "cloud": "Azure Cloud",
+    "marketing": "Digital Marketing",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Enterprise Cloud Solutions & Intelligent Automation",
+    "subtitle": "Transform your business with cutting-edge technology from a Liverpool-based Cloud Architect",
+    "cta": "Schedule Consultation",
+    "ctaSecondary": "View Services"
+  },
+  "services": {
+    "title": "What We Do",
+    "subtitle": "Our collection of tech services spans every stage of the digital transformation process.",
+    "webDev": {
+      "title": "Web Development",
+      "description": "Modern React & WordPress solutions built for scale. From sleek corporate websites to complex web applications, I deliver pixel-perfect, performant digital experiences.",
+      "cta": "Learn More"
+    },
+    "automation": {
+      "title": "n8n Workflow Automation",
+      "description": "Scale Your Business, Not Your To-Do List. Leverage the power of n8n workflow automation to connect your favorite apps and eliminate manual data entry. I build 'invisible employees' that work 24/7 with zero errors.",
+      "cta": "Learn More"
+    },
+    "azure": {
+      "title": "Azure Cloud Architecture",
+      "description": "Enterprise-Grade Cloud Architecture. I design and deploy secure, scalable, and high-availability cloud infrastructures on Microsoft Azure with UK-standard compliance.",
+      "cta": "Learn More"
+    },
+    "marketing": {
+      "title": "AI-Driven Digital Marketing",
+      "description": "AI-Driven strategies that convert. Harness the power of artificial intelligence to optimize your marketing campaigns and maximize ROI.",
+      "cta": "Learn More"
+    }
+  },
+  "trust": {
+    "location": "Based in Liverpool, UK",
+    "standards": "British Engineering Standards",
+    "compliance": "UK Data Sovereignty"
+  },
+  "tech": {
+    "title": "Technology Expertise",
+    "subtitle": "Leveraging industry-leading tools and frameworks to deliver exceptional results."
+  },
+  "about": {
+    "title": "About Shaahin Rassaf",
+    "subtitle": "Senior Cloud Architect & Automation Specialist",
+    "bio": "I'm a senior technology consultant based in Liverpool, UK, specializing in cloud architecture, workflow automation, and modern web development. With years of experience delivering enterprise-grade solutions, I help businesses reduce costs and increase efficiency through intelligent technology adoption.",
+    "mission": "My mission is to bridge the gap between complex technology and practical business outcomes. I believe that the right automation can transform any organization, creating 'invisible employees' that handle repetitive tasks while your team focuses on growth.",
+    "expertise": "Areas of Expertise",
+    "approach": "My Approach",
+    "approachDesc": "Every project begins with understanding your unique business challenges. I combine deep technical expertise with a pragmatic approach to deliver solutions that are not just technically excellent, but genuinely transformative for your operations."
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "subtitle": "Ready to transform your business? Let's start a conversation.",
+    "name": "Your Name",
+    "email": "Your Email",
+    "subject": "Subject",
+    "message": "Your Message",
+    "send": "Send Message",
+    "address": "Address",
+    "phone": "Phone",
+    "emailLabel": "Email",
+    "success": "Message sent successfully!",
+    "error": "Failed to send message. Please try again."
+  },
+  "footer": {
+    "description": "Enterprise cloud solutions and intelligent automation from Liverpool, UK. Transforming businesses with cutting-edge technology.",
+    "navigation": "Navigation",
+    "services": "Services",
+    "contact": "Contact",
+    "rights": "All rights reserved.",
+    "tagline": "Crafted with precision in Liverpool, UK"
+  },
+  "servicesPage": {
+    "title": "Our Services",
+    "subtitle": "Comprehensive technology solutions tailored for modern businesses."
+  },
+  "automationPage": {
+    "title": "Scale Your Business, Not Your To-Do List",
+    "subtitle": "Leverage the power of n8n workflow automation to connect your favorite apps and eliminate manual data entry.",
+    "description": "From custom CRM integrations to automated lead nurturing, I build 'invisible employees' that work 24/7 with zero errors. Let's automate your complexity into simplicity.",
+    "benefit1Title": "24/7 Operation",
+    "benefit1Desc": "Automated workflows run around the clock without breaks, holidays, or sick days.",
+    "benefit2Title": "Zero Errors",
+    "benefit2Desc": "Eliminate human error from repetitive tasks with precision-engineered automation.",
+    "benefit3Title": "Cost Reduction",
+    "benefit3Desc": "Reduce operational costs by up to 70% through intelligent workflow automation.",
+    "benefit4Title": "Scalability",
+    "benefit4Desc": "Workflows scale with your business without additional headcount."
+  },
+  "azurePage": {
+    "title": "Enterprise-Grade Cloud Architecture",
+    "subtitle": "As a specialist in Microsoft Azure, I design and deploy secure, scalable, and high-availability cloud infrastructures.",
+    "description": "Whether you are migrating from on-premise or optimizing your current cloud spend, I ensure your data is resident in the right regions with maximum uptime and UK-standard compliance.",
+    "benefit1Title": "UK Compliance",
+    "benefit1Desc": "Full compliance with UK data sovereignty requirements and GDPR regulations.",
+    "benefit2Title": "High Availability",
+    "benefit2Desc": "99.99% uptime SLA with multi-region failover and disaster recovery.",
+    "benefit3Title": "Cost Optimization",
+    "benefit3Desc": "Reduce your cloud spend by right-sizing resources and implementing auto-scaling.",
+    "benefit4Title": "Security First",
+    "benefit4Desc": "Enterprise-grade security with Azure Active Directory, Key Vault, and network isolation."
+  },
+  "webDevPage": {
+    "title": "Modern Web Development",
+    "subtitle": "Building fast, responsive, and scalable web applications with React, Next.js, and WordPress.",
+    "description": "From corporate websites to complex web applications, I deliver pixel-perfect, performant digital experiences that drive business growth.",
+    "benefit1Title": "React & Next.js",
+    "benefit1Desc": "Server-rendered, SEO-optimized applications with blazing-fast performance.",
+    "benefit2Title": "WordPress",
+    "benefit2Desc": "Custom themes and plugins for content-rich websites with full CMS capabilities.",
+    "benefit3Title": "Responsive Design",
+    "benefit3Desc": "Mobile-first, adaptive layouts that provide a flawless experience on any device.",
+    "benefit4Title": "Performance",
+    "benefit4Desc": "Lighthouse 95+ scores with optimized Core Web Vitals for better SEO rankings."
+  },
+  "marketingPage": {
+    "title": "AI-Driven Digital Marketing",
+    "subtitle": "Harness the power of artificial intelligence to optimize your marketing campaigns and maximize ROI.",
+    "description": "From predictive analytics to automated content optimization, I leverage cutting-edge AI tools to drive measurable business growth.",
+    "benefit1Title": "Predictive Analytics",
+    "benefit1Desc": "Use machine learning to predict customer behavior and optimize campaigns.",
+    "benefit2Title": "Content Optimization",
+    "benefit2Desc": "AI-powered content strategies that improve engagement and conversion rates.",
+    "benefit3Title": "Lead Generation",
+    "benefit3Desc": "Automated lead scoring and nurturing that converts prospects into customers.",
+    "benefit4Title": "ROI Tracking",
+    "benefit4Desc": "Comprehensive analytics dashboards to measure and optimize your marketing spend."
+  }
+}
